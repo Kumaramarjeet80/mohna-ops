@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mohna Ops</string>
+    <string name="rider_hub_title">Mohna Rider Hub</string>
+    <string name="admin_hub_title">Mohna Express Control Hub</string>
+    <string name="telemetry_notification_channel">Rider GPS Telemetry</string>
+    <string name="telemetry_notification_title">🛵 Mohna Express Telemetry Active</string>
+    <string name="telemetry_notification_desc">Broadcasting live GPS coordinates to dispatch control</string>
+</resources>
