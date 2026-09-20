@@ -8,8 +8,8 @@ package com.mohna.ops
 object AppConfig {
     // Supabase PostgREST API Base Configuration
     // Users can override via environment or direct setup
-    const val DEFAULT_SUPABASE_URL = "https://your-project.supabase.co"
-    const val DEFAULT_SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.dummy_anon_key"
+    const val DEFAULT_SUPABASE_URL = "https://zselflcfndhlkmwbohxm.supabase.co"
+    const val DEFAULT_SUPABASE_ANON_KEY = "sb_publishable_qUhv9P7aylCNhouahNCCqA_6vnwt178"
 
     // Company & Corporate Metadata for Official Reports and Slips
     const val COMPANY_NAME = "MOHNA EXPRESS"
